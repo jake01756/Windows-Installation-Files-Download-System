@@ -1,1 +1,1 @@
-https://github.com/jake01756/Windows-Installation-Files-Download-System/blob/installshield/
+https://raw.githubusercontent.com/jake01756/Windows-Installation-Files-Download-System/installshield/
